@@ -1,5 +1,5 @@
 ---
-title: Install
+title: Fahhh Install
 ---
 
 <script>
